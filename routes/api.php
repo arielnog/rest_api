@@ -22,6 +22,8 @@ Route::namespace('API')->name('api.')->group(function () {
     Route::prefix('movies')->group(function (){
         Route::get('/', 'MoviesController@index')->name('movies_show');
         Route::post('/store','MoviesController@store')->name('movies_store');
+        Route::put('/update/{id}', 'MoviesController@update')->name('movies_update');
+        Route::delete('/delete/{id}', 'MoviesController@delete')->name('movies_delete');
     });
 
     Route::prefix('diretors')->group(function(){

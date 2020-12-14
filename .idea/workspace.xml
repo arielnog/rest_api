@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3a5aac91-c3e1-4b08-8854-a6ce8814d87a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,6 +28,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -116,6 +137,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1lHXebItgyKuoU4ZKgcF3cpnrft" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -148,11 +170,25 @@
       <updated>1607255087234</updated>
       <workItem from="1607255088590" duration="19185000" />
       <workItem from="1607299720364" duration="7641000" />
+      <workItem from="1607646434042" duration="2650000" />
+      <workItem from="1607905841970" duration="3254000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="182" y="170" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1607308208976">
@@ -160,10 +196,10 @@
     </state>
     <state x="182" y="170" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1607308208976" />
     <state x="243" y="170" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.2048.824@0.0.2048.824" timestamp="1607277321880" />
-    <state x="1316" y="171" key="FileChooserDialogImpl" timestamp="1607307160947">
+    <state x="1316" y="171" key="FileChooserDialogImpl" timestamp="1607908362234">
       <screen x="0" y="0" width="2048" height="824" />
     </state>
     <state x="987" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607284438325" />
-    <state x="1316" y="171" key="FileChooserDialogImpl/0.0.2048.824@0.0.2048.824" timestamp="1607307160947" />
+    <state x="1316" y="171" key="FileChooserDialogImpl/0.0.2048.824@0.0.2048.824" timestamp="1607908362234" />
   </component>
 </project>

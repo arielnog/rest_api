@@ -17,4 +17,17 @@ class MoviesController extends Controller
         $moviesData = new Movies;
         $moviesData->create($request->all());
     }
+
+    public function update(Request $request, $id){
+        $moviesTest = $request->all();
+        $movies = Movies::find($id);
+        $movies->update($moviesTest);
+        return response()->json();
+
+    }
+    public function delete($id){
+        Movies::destroy($id);
+        return response()->json();
+
+    }
 }
